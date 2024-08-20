@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ my icon's code
-      ```js
-        function setup() {
+```js
+function setup() {
   createCanvas(400, 400);
 }
 
@@ -19,8 +19,8 @@ function draw() {
     ellipse(width / 2, height / 2, width / i, height - height / i);
     ellipse(width / 2, height / 2, width - width / i, height / i);
   }
-}
-      ```
+}   
+```
   
 
 <!---
